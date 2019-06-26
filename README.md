@@ -1,14 +1,14 @@
-#text-reverse 
+# text-reverse 
 
 >given a argument and returned its reverse
 
-##Install
+## Install
 
 ```
     npm install text-reverse --save
 ```
 
-##Usage
+## Usage
 
 
 ```
@@ -18,6 +18,6 @@ console.log(newStr);//dlrow olleh
 
 ```
 
-##License
+## License
 
 MIT (c) Barış Can Yılmaz
