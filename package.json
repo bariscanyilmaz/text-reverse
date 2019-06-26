@@ -6,12 +6,23 @@
   "scripts": {
     "test": "mocha test.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bariscanyilmaz/text-reverse"
+  },
+  "files": [
+    "index.js"
+  ],
   "keywords": [
     "reverse",
     "text"
   ],
-  "author": "Barış Can Yılmaz",
-  "license": "ISC",
+  "author": {
+    "name": "Barış Can Yılmaz",
+    "url": "http://www.bariscanyilmaz.com",
+    "email": "baris@bariscanyilmaz.com"
+  },
+  "license": "MIT",
   "dependencies": {},
   "devDependencies": {
     "chai": "^4.2.0",
