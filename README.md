@@ -1,8 +1,9 @@
 #text-reverse 
 
->given a argument and returned its reverse;
+>given a argument and returned its reverse
 
 ##Install
+
 ```
     npm install text-reverse --save
 ```
@@ -18,4 +19,5 @@ console.log(newStr);//dlrow olleh
 ```
 
 ##License
+
 MIT (c) Barış Can Yılmaz
