@@ -1,0 +1,20 @@
+{
+  "name": "text-reverse",
+  "version": "1.0.0",
+  "description": "reverse text",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "keywords": [
+    "reverse",
+    "text"
+  ],
+  "author": "Barış Can Yılmaz",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  }
+}
